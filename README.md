@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0179-largest-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -36,6 +37,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0179-largest-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1792-maximum-average-pass-ratio](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1792-maximum-average-pass-ratio) |
