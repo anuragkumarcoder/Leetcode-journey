@@ -7,6 +7,7 @@
 | [0135-candy](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0179-largest-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [1095-find-in-mountain-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1095-find-in-mountain-array) |
 | [1250-check-if-it-is-a-good-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1250-check-if-it-is-a-good-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -52,6 +53,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1095-find-in-mountain-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1095-find-in-mountain-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1250-check-if-it-is-a-good-array) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
