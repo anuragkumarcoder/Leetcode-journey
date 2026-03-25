@@ -46,6 +46,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1499-max-value-of-equation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1499-max-value-of-equation) |
+| [1753-maximum-score-from-removing-stones](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1753-maximum-score-from-removing-stones) |
 | [1792-maximum-average-pass-ratio](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1792-maximum-average-pass-ratio) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -62,6 +63,7 @@
 | [0179-largest-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0179-largest-number) |
 | [1402-reducing-dishes](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1402-reducing-dishes) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1753-maximum-score-from-removing-stones](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1753-maximum-score-from-removing-stones) |
 | [1792-maximum-average-pass-ratio](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1792-maximum-average-pass-ratio) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Sorting
@@ -121,6 +123,7 @@
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
 | [1250-check-if-it-is-a-good-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1250-check-if-it-is-a-good-array) |
+| [1753-maximum-score-from-removing-stones](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1753-maximum-score-from-removing-stones) |
 ## Number Theory
 |  |
 | ------- |
