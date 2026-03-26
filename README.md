@@ -14,6 +14,7 @@
 | [0506-relative-ranks](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0506-relative-ranks) |
 | [0690-employee-importance](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0690-employee-importance) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0912-sort-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
 | [1095-find-in-mountain-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1095-find-in-mountain-array) |
 | [1250-check-if-it-is-a-good-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1250-check-if-it-is-a-good-array) |
@@ -42,6 +43,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0506-relative-ranks) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0912-sort-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -74,6 +76,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0506-relative-ranks) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0912-sort-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
 | [1329-sort-the-matrix-diagonally](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -137,6 +140,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0912-sort-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Indexed Tree
 |  |
@@ -150,6 +154,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0912-sort-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0912-sort-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -193,4 +198,16 @@
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
