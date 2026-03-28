@@ -27,6 +27,7 @@
 | [1499-max-value-of-equation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1499-max-value-of-equation) |
 | [1792-maximum-average-pass-ratio](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1792-maximum-average-pass-ratio) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2381-shifting-letters-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2381-shifting-letters-ii) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2974-minimum-number-game) |
 | [3355-zero-array-transformation-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3355-zero-array-transformation-i) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0179-largest-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2381-shifting-letters-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2381-shifting-letters-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -221,5 +223,6 @@
 | ------- |
 | [1094-car-pooling](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1109-corporate-flight-bookings) |
+| [2381-shifting-letters-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2381-shifting-letters-ii) |
 | [3355-zero-array-transformation-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3355-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
