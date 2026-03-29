@@ -24,6 +24,7 @@
 | [1329-sort-the-matrix-diagonally](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1402-reducing-dishes](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1402-reducing-dishes) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1499-max-value-of-equation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1499-max-value-of-equation) |
 | [1792-maximum-average-pass-ratio](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1792-maximum-average-pass-ratio) |
@@ -137,6 +138,7 @@
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
 | [1250-check-if-it-is-a-good-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1250-check-if-it-is-a-good-array) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1753-maximum-score-from-removing-stones](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1753-maximum-score-from-removing-stones) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
@@ -181,6 +183,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0001-two-sum) |
 | [0690-employee-importance](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0690-employee-importance) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Tree
 |  |
 | ------- |
@@ -205,6 +208,7 @@
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1009-complement-of-base-10-integer) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Enumeration
 |  |
 | ------- |
@@ -227,6 +231,7 @@
 | [0848-shifting-letters](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0848-shifting-letters) |
 | [1094-car-pooling](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1109-corporate-flight-bookings) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2381-shifting-letters-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2381-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3355-zero-array-transformation-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3355-zero-array-transformation-i) |
