@@ -112,6 +112,7 @@
 | [0848-shifting-letters](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0848-shifting-letters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2381-shifting-letters-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2381-shifting-letters-ii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Simulation
 |  |
 | ------- |
@@ -227,5 +228,6 @@
 | [1094-car-pooling](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1109-corporate-flight-bookings) |
 | [2381-shifting-letters-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2381-shifting-letters-ii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3355-zero-array-transformation-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3355-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
