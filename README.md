@@ -117,6 +117,7 @@
 | [0848-shifting-letters](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0848-shifting-letters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2381-shifting-letters-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2381-shifting-letters-ii) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Simulation
 |  |
