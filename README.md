@@ -12,6 +12,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0413-arithmetic-slices](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0413-arithmetic-slices) |
 | [0506-relative-ranks](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0506-relative-ranks) |
 | [0690-employee-importance](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0690-employee-importance) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -42,6 +43,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0413-arithmetic-slices) |
 | [1499-max-value-of-equation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1499-max-value-of-equation) |
 ## Heap (Priority Queue)
 |  |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0045-jump-game-ii) |
+| [0413-arithmetic-slices](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0413-arithmetic-slices) |
 | [1402-reducing-dishes](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1402-reducing-dishes) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Hash Table
