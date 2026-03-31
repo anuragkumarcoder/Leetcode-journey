@@ -146,6 +146,7 @@
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1753-maximum-score-from-removing-stones](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1753-maximum-score-from-removing-stones) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
@@ -218,6 +219,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bucket Sort
 |  |
