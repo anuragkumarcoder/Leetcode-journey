@@ -161,6 +161,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0295-find-median-from-data-stream](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -302,4 +303,8 @@
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2751-robot-collisions) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
