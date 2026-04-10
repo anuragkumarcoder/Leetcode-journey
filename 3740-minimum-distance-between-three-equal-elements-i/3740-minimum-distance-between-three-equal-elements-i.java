@@ -16,7 +16,6 @@ class Solution {
             int curr=0;
             if(map.get(x).size()>2){
                 for(int i=0;i<map.get(x).size()-2;i++){
-                    Collections.sort(map.get(x));
                 int a=map.get(x).get(i);
                 int b=map.get(x).get(i+1);
                 int c=map.get(x).get(i+2);
