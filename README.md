@@ -84,6 +84,7 @@
 | [1792-maximum-average-pass-ratio](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1792-maximum-average-pass-ratio) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2336-smallest-number-in-infinite-set](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2336-smallest-number-in-infinite-set) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2974-minimum-number-game) |
@@ -183,6 +184,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0295-find-median-from-data-stream) |
 | [0307-range-sum-query-mutable](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0307-range-sum-query-mutable) |
+| [2336-smallest-number-in-infinite-set](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2336-smallest-number-in-infinite-set) |
 ## Data Stream
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2336-smallest-number-in-infinite-set](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2336-smallest-number-in-infinite-set) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -251,6 +254,7 @@
 | [0690-employee-importance](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0690-employee-importance) |
 | [0874-walking-robot-simulation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0874-walking-robot-simulation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2336-smallest-number-in-infinite-set](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2336-smallest-number-in-infinite-set) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3527-find-the-most-common-response](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3527-find-the-most-common-response) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
