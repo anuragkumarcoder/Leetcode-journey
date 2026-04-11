@@ -53,6 +53,7 @@
 | [3355-zero-array-transformation-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3355-zero-array-transformation-i) |
 | [3527-find-the-most-common-response](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3527-find-the-most-common-response) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Queue
 |  |
 | ------- |
@@ -253,6 +254,7 @@
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3527-find-the-most-common-response](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3527-find-the-most-common-response) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Tree
 |  |
 | ------- |
