@@ -47,6 +47,7 @@
 | [2348-number-of-zero-filled-subarrays](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2381-shifting-letters-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2381-shifting-letters-ii) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2679-sum-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2679-sum-in-a-matrix) |
 | [2751-robot-collisions](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2751-robot-collisions) |
 | [2974-minimum-number-game](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2974-minimum-number-game) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -88,6 +89,7 @@
 | [2336-smallest-number-in-infinite-set](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2336-smallest-number-in-infinite-set) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2679-sum-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2679-sum-in-a-matrix) |
 | [2974-minimum-number-game](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2974-minimum-number-game) |
 ## Monotonic Queue
 |  |
@@ -128,6 +130,7 @@
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2679-sum-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2679-sum-in-a-matrix) |
 | [2751-robot-collisions](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2751-robot-collisions) |
 | [2974-minimum-number-game](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2974-minimum-number-game) |
 ## Binary Search
@@ -146,6 +149,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1329-sort-the-matrix-diagonally](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2679-sum-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2679-sum-in-a-matrix) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## String
 |  |
@@ -167,6 +171,7 @@
 | [1094-car-pooling](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1094-car-pooling) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2679-sum-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2679-sum-in-a-matrix) |
 | [2751-robot-collisions](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2751-robot-collisions) |
 | [2974-minimum-number-game](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2974-minimum-number-game) |
 ## Two Pointers
