@@ -14,6 +14,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0413-arithmetic-slices) |
 | [0506-relative-ranks](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0506-relative-ranks) |
 | [0624-maximum-distance-in-arrays](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0624-maximum-distance-in-arrays) |
@@ -103,6 +104,7 @@
 | [0045-jump-game-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0624-maximum-distance-in-arrays) |
 | [1402-reducing-dishes](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1402-reducing-dishes) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -141,6 +143,7 @@
 | [0275-h-index-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0275-h-index-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -253,6 +256,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0045-jump-game-ii) |
+| [0410-split-array-largest-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0413-arithmetic-slices) |
 | [0845-longest-mountain-in-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0845-longest-mountain-in-array) |
 | [1402-reducing-dishes](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1402-reducing-dishes) |
@@ -324,6 +328,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0848-shifting-letters](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0848-shifting-letters) |
 | [1094-car-pooling](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1109-corporate-flight-bookings) |
