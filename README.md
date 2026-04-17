@@ -48,6 +48,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2187-minimum-time-to-complete-trips](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2187-minimum-time-to-complete-trips) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -160,6 +161,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1898-maximum-number-of-removable-characters](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1898-maximum-number-of-removable-characters) |
 | [2187-minimum-time-to-complete-trips](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2187-minimum-time-to-complete-trips) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3488-closest-equal-element-queries](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3488-closest-equal-element-queries) |
 ## Matrix
 |  |
