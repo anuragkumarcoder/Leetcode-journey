@@ -235,6 +235,7 @@
 | [2348-number-of-zero-filled-subarrays](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3783-mirror-distance-of-an-integer) |
 ## Number Theory
 |  |
 | ------- |
