@@ -58,6 +58,7 @@
 | [2679-sum-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2679-sum-in-a-matrix) |
 | [2751-robot-collisions](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2751-robot-collisions) |
 | [2974-minimum-number-game](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2974-minimum-number-game) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3355-zero-array-transformation-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3355-zero-array-transformation-i) |
 | [3488-closest-equal-element-queries](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3488-closest-equal-element-queries) |
@@ -145,6 +146,7 @@
 | [2679-sum-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2679-sum-in-a-matrix) |
 | [2751-robot-collisions](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2751-robot-collisions) |
 | [2974-minimum-number-game](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2974-minimum-number-game) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -207,6 +209,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1898-maximum-number-of-removable-characters](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1898-maximum-number-of-removable-characters) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3794-reverse-string-prefix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3794-reverse-string-prefix) |
 ## Design
