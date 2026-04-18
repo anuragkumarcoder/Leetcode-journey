@@ -190,6 +190,7 @@
 | [2381-shifting-letters-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2381-shifting-letters-ii) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3019-number-of-changing-keys](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3019-number-of-changing-keys) |
 | [3527-find-the-most-common-response](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3527-find-the-most-common-response) |
 | [3794-reverse-string-prefix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3794-reverse-string-prefix) |
 ## Simulation
