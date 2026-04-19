@@ -43,6 +43,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1792-maximum-average-pass-ratio](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1792-maximum-average-pass-ratio) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1898-maximum-number-of-removable-characters](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1898-maximum-number-of-removable-characters) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -171,6 +172,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1552-magnetic-force-between-two-balls) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1898-maximum-number-of-removable-characters](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1898-maximum-number-of-removable-characters) |
 | [2187-minimum-time-to-complete-trips](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -219,6 +221,7 @@
 | [0658-find-k-closest-elements](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0845-longest-mountain-in-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0845-longest-mountain-in-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1898-maximum-number-of-removable-characters](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1898-maximum-number-of-removable-characters) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
