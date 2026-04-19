@@ -68,6 +68,7 @@
 | [3131-find-the-integer-added-to-array-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3355-zero-array-transformation-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3355-zero-array-transformation-i) |
 | [3488-closest-equal-element-queries](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3488-closest-equal-element-queries) |
@@ -257,6 +258,7 @@
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3783-mirror-distance-of-an-integer) |
