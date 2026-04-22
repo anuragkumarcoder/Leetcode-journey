@@ -253,6 +253,7 @@
 ## Math
 |  |
 | ------- |
+| [0398-random-pick-index](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0398-random-pick-index) |
 | [0973-k-closest-points-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
 | [1250-check-if-it-is-a-good-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1250-check-if-it-is-a-good-array) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -317,6 +318,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0001-two-sum) |
+| [0398-random-pick-index](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0398-random-pick-index) |
 | [0690-employee-importance](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0690-employee-importance) |
 | [0874-walking-robot-simulation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0874-walking-robot-simulation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -414,4 +416,12 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0703-kth-largest-element-in-a-stream) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
