@@ -244,6 +244,7 @@
 | [0295-find-median-from-data-stream](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0295-find-median-from-data-stream) |
 | [0307-range-sum-query-mutable](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0307-range-sum-query-mutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [2336-smallest-number-in-infinite-set](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2336-smallest-number-in-infinite-set) |
 ## Data Stream
 |  |
@@ -321,6 +322,7 @@
 | [0398-random-pick-index](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0398-random-pick-index) |
 | [0690-employee-importance](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0690-employee-importance) |
 | [0874-walking-robot-simulation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0874-walking-robot-simulation) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2336-smallest-number-in-infinite-set](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2336-smallest-number-in-infinite-set) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -339,16 +341,19 @@
 | ------- |
 | [0690-employee-importance](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0690-employee-importance) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0690-employee-importance](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0690-employee-importance) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0690-employee-importance](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0690-employee-importance) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Geometry
 |  |
@@ -411,6 +416,7 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Search Tree
 |  |
