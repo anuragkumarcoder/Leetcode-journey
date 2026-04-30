@@ -127,6 +127,7 @@
 | [0179-largest-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0624-maximum-distance-in-arrays) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1402-reducing-dishes](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1402-reducing-dishes) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1753-maximum-score-from-removing-stones](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1753-maximum-score-from-removing-stones) |
@@ -198,6 +199,7 @@
 | [0179-largest-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0179-largest-number) |
 | [0657-robot-return-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0657-robot-return-to-origin) |
 | [0848-shifting-letters](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0848-shifting-letters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1898-maximum-number-of-removable-characters](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1898-maximum-number-of-removable-characters) |
@@ -397,6 +399,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0912-sort-an-array) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3527-find-the-most-common-response](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3527-find-the-most-common-response) |
 ## Prefix Sum
