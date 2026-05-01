@@ -14,6 +14,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0396-rotate-function](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0413-arithmetic-slices) |
 | [0506-relative-ranks](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0506-relative-ranks) |
@@ -259,6 +260,7 @@
 ## Math
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0398-random-pick-index) |
 | [0973-k-closest-points-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
 | [1250-check-if-it-is-a-good-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1250-check-if-it-is-a-good-array) |
@@ -314,6 +316,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0045-jump-game-ii) |
+| [0396-rotate-function](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0413-arithmetic-slices) |
 | [0845-longest-mountain-in-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0845-longest-mountain-in-array) |
