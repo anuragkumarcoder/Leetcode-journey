@@ -262,6 +262,7 @@
 | ------- |
 | [0396-rotate-function](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0398-random-pick-index) |
+| [0788-rotated-digits](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0788-rotated-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
 | [1250-check-if-it-is-a-good-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1250-check-if-it-is-a-good-array) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -319,6 +320,7 @@
 | [0396-rotate-function](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0413-arithmetic-slices) |
+| [0788-rotated-digits](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0788-rotated-digits) |
 | [0845-longest-mountain-in-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0845-longest-mountain-in-array) |
 | [1402-reducing-dishes](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1402-reducing-dishes) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
