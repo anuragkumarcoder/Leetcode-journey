@@ -200,6 +200,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0179-largest-number) |
 | [0657-robot-return-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0848-shifting-letters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -453,4 +454,8 @@
 |  |
 | ------- |
 | [2375-construct-smallest-number-from-di-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2375-construct-smallest-number-from-di-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
