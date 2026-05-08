@@ -77,6 +77,7 @@
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3488-closest-equal-element-queries](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3488-closest-equal-element-queries) |
 | [3527-find-the-most-common-response](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3527-find-the-most-common-response) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3660-jump-game-ix) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -280,6 +281,7 @@
 | [2348-number-of-zero-filled-subarrays](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3783-mirror-distance-of-an-integer) |
@@ -287,6 +289,7 @@
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1250-check-if-it-is-a-good-array) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Interactive
 |  |
 | ------- |
@@ -351,6 +354,7 @@
 | [3162-find-the-number-of-good-pairs-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3488-closest-equal-element-queries](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3488-closest-equal-element-queries) |
 | [3527-find-the-most-common-response](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3527-find-the-most-common-response) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -384,6 +388,7 @@
 | [0690-employee-importance](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0690-employee-importance) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Geometry
 |  |
 | ------- |
