@@ -64,6 +64,7 @@
 | [2679-sum-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2706-buy-two-chocolates) |
 | [2751-robot-collisions](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2751-robot-collisions) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2974-minimum-number-game](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -336,6 +337,7 @@
 | [0845-longest-mountain-in-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0845-longest-mountain-in-array) |
 | [1402-reducing-dishes](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1402-reducing-dishes) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3660-jump-game-ix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Hash Table
