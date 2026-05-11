@@ -59,6 +59,7 @@
 | [2348-number-of-zero-filled-subarrays](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2381-shifting-letters-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2381-shifting-letters-ii) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2679-sum-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2679-sum-in-a-matrix) |
@@ -231,6 +232,7 @@
 | [1094-car-pooling](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1094-car-pooling) |
 | [1914-cyclically-rotating-a-grid](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1914-cyclically-rotating-a-grid) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2553-separate-the-digits-in-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2679-sum-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2679-sum-in-a-matrix) |
 | [2751-robot-collisions](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2751-robot-collisions) |
