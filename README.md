@@ -69,6 +69,7 @@
 | [2706-buy-two-chocolates](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2706-buy-two-chocolates) |
 | [2751-robot-collisions](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -175,6 +176,7 @@
 | [2679-sum-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2706-buy-two-chocolates) |
 | [2751-robot-collisions](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2751-robot-collisions) |
+| [2784-check-if-array-is-good](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2974-minimum-number-game) |
 | [3074-apple-redistribution-into-boxes](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -362,6 +364,7 @@
 | [2336-smallest-number-in-infinite-set](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2336-smallest-number-in-infinite-set) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2784-check-if-array-is-good](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2784-check-if-array-is-good) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
