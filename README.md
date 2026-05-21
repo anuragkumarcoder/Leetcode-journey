@@ -77,6 +77,7 @@
 | [2784-check-if-array-is-good](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3028-ant-on-the-boundary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3074-apple-redistribution-into-boxes) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -236,6 +237,7 @@
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3019-number-of-changing-keys](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3019-number-of-changing-keys) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3146-permutation-difference-between-two-strings) |
 | [3527-find-the-most-common-response](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3527-find-the-most-common-response) |
@@ -376,6 +378,7 @@
 | [2540-minimum-common-value](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -519,4 +522,8 @@
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0797-all-paths-from-source-to-target) |
 | [0997-find-the-town-judge](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0997-find-the-town-judge) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
