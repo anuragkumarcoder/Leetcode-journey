@@ -59,6 +59,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2187-minimum-time-to-complete-trips](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
@@ -153,6 +154,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2706-buy-two-chocolates](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2706-buy-two-chocolates) |
@@ -179,6 +181,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
