@@ -288,6 +288,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1898-maximum-number-of-removable-characters](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1898-maximum-number-of-removable-characters) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2540-minimum-common-value) |
@@ -519,6 +520,7 @@
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
