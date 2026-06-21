@@ -52,6 +52,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1792-maximum-average-pass-ratio](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1792-maximum-average-pass-ratio) |
+| [1833-maximum-ice-cream-bars](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -160,6 +161,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1753-maximum-score-from-removing-stones](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1753-maximum-score-from-removing-stones) |
 | [1792-maximum-average-pass-ratio](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1792-maximum-average-pass-ratio) |
+| [1833-maximum-ice-cream-bars](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2126-destroying-asteroids) |
@@ -188,6 +190,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -499,6 +502,7 @@
 | [0912-sort-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0912-sort-an-array) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [3527-find-the-most-common-response](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3527-find-the-most-common-response) |
 ## Prefix Sum
 |  |
