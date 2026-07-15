@@ -344,6 +344,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -353,6 +354,7 @@
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1250-check-if-it-is-a-good-array) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Interactive
 |  |
 | ------- |
