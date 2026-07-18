@@ -60,6 +60,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1898-maximum-number-of-removable-characters](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1898-maximum-number-of-removable-characters) |
 | [1914-cyclically-rotating-a-grid](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1914-cyclically-rotating-a-grid) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -337,6 +338,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1753-maximum-score-from-removing-stones](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1753-maximum-score-from-removing-stones) |
 | [1840-maximum-building-height](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1840-maximum-building-height) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
@@ -355,6 +357,7 @@
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1250-check-if-it-is-a-good-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Interactive
