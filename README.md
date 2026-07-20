@@ -39,6 +39,7 @@
 | [1095-find-in-mountain-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1095-find-in-mountain-array) |
 | [1109-corporate-flight-bookings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1109-corporate-flight-bookings) |
 | [1250-check-if-it-is-a-good-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1250-check-if-it-is-a-good-array) |
+| [1260-shift-2d-grid](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1306-jump-game-iii) |
 | [1329-sort-the-matrix-diagonally](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
@@ -242,6 +243,7 @@
 | [0542-01-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1260-shift-2d-grid) |
 | [1329-sort-the-matrix-diagonally](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1914-cyclically-rotating-a-grid) |
@@ -280,6 +282,7 @@
 | [0657-robot-return-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0874-walking-robot-simulation) |
 | [1094-car-pooling](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1094-car-pooling) |
+| [1260-shift-2d-grid](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
