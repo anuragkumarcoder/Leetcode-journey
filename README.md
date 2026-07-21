@@ -53,6 +53,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1765-map-of-highest-peak](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1765-map-of-highest-peak) |
 | [1792-maximum-average-pass-ratio](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1792-maximum-average-pass-ratio) |
 | [1833-maximum-ice-cream-bars](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1840-maximum-building-height) |
@@ -246,6 +247,7 @@
 | [1260-shift-2d-grid](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1260-shift-2d-grid) |
 | [1329-sort-the-matrix-diagonally](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1765-map-of-highest-peak](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1765-map-of-highest-peak) |
 | [1914-cyclically-rotating-a-grid](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1914-cyclically-rotating-a-grid) |
 | [2679-sum-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2679-sum-in-a-matrix) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
@@ -484,6 +486,7 @@
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1306-jump-game-iii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1306-jump-game-iii) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1765-map-of-highest-peak](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1765-map-of-highest-peak) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Geometry
 |  |
