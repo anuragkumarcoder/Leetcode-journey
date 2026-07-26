@@ -22,6 +22,7 @@
 | [0506-relative-ranks](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0624-maximum-distance-in-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0658-find-k-closest-elements) |
 | [0690-employee-importance](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0733-flood-fill) |
@@ -190,6 +191,7 @@
 | [0295-find-median-from-data-stream](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0912-sort-an-array) |
@@ -342,6 +344,7 @@
 | ------- |
 | [0396-rotate-function](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0398-random-pick-index) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0788-rotated-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
 | [1250-check-if-it-is-a-good-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1250-check-if-it-is-a-good-array) |
