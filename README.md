@@ -220,6 +220,7 @@
 | [2974-minimum-number-game](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2974-minimum-number-game) |
 | [3074-apple-redistribution-into-boxes](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -284,6 +285,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3146-permutation-difference-between-two-strings) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3527-find-the-most-common-response](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3527-find-the-most-common-response) |
 | [3794-reverse-string-prefix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3838-weighted-word-mapping) |
@@ -547,6 +549,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3527-find-the-most-common-response](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3527-find-the-most-common-response) |
 ## Prefix Sum
 |  |
