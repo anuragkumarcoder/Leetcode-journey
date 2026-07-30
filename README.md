@@ -182,6 +182,7 @@
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2706-buy-two-chocolates](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2706-buy-two-chocolates) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3074-apple-redistribution-into-boxes) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sorting
@@ -284,6 +285,7 @@
 | [2381-shifting-letters-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2381-shifting-letters-ii) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3019-number-of-changing-keys) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -364,6 +366,7 @@
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
