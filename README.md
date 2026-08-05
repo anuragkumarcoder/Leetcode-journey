@@ -503,6 +503,7 @@
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1306-jump-game-iii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1306-jump-game-iii) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [3310-remove-methods-from-project](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3310-remove-methods-from-project) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
@@ -522,6 +523,7 @@
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1765-map-of-highest-peak](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [3310-remove-methods-from-project](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3310-remove-methods-from-project) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Geometry
 |  |
@@ -631,6 +633,7 @@
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0797-all-paths-from-source-to-target) |
 | [0997-find-the-town-judge](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0997-find-the-town-judge) |
+| [3310-remove-methods-from-project](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Trie
