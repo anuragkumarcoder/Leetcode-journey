@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0045-jump-game-ii) |
+| [0078-subsets](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -538,6 +539,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0078-subsets) |
 | [1009-complement-of-base-10-integer](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1009-complement-of-base-10-integer) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -624,6 +626,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0078-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0797-all-paths-from-source-to-target) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2375-construct-smallest-number-from-di-string) |
 ## String Matching
