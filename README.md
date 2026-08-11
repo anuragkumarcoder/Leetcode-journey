@@ -95,6 +95,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3028-ant-on-the-boundary](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3028-ant-on-the-boundary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -227,6 +228,7 @@
 | [2751-robot-collisions](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -469,6 +471,7 @@
 | [2540-minimum-common-value](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
