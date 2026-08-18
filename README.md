@@ -286,6 +286,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0179-largest-number) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0412-fizz-buzz](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0412-fizz-buzz) |
 | [0449-serialize-and-deserialize-bst](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0657-robot-return-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0796-rotate-string) |
@@ -313,6 +314,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0874-walking-robot-simulation) |
 | [1094-car-pooling](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1094-car-pooling) |
@@ -367,6 +369,7 @@
 | ------- |
 | [0396-rotate-function](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0398-random-pick-index) |
+| [0412-fizz-buzz](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0877-stone-game) |
