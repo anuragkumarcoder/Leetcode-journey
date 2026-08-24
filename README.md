@@ -334,6 +334,7 @@
 | [2974-minimum-number-game](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2974-minimum-number-game) |
 | [3028-ant-on-the-boundary](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3838-weighted-word-mapping](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
@@ -396,6 +397,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -566,6 +568,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -700,4 +703,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1510-stone-game-iv) |
+## Recursion
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
