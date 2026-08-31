@@ -634,6 +634,7 @@
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Tree
 |  |
