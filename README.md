@@ -255,6 +255,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
+| [0633-sum-of-square-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -344,6 +345,7 @@
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0295-find-median-from-data-stream](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0295-find-median-from-data-stream) |
+| [0633-sum-of-square-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0845-longest-mountain-in-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0845-longest-mountain-in-array) |
@@ -380,6 +382,7 @@
 | [0398-random-pick-index](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
