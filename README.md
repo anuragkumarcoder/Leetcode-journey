@@ -132,6 +132,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Queue
@@ -421,6 +422,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3945-digit-frequency-score) |
 ## Number Theory
