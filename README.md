@@ -135,6 +135,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3903-smallest-stable-index-i) |
 ## Queue
 |  |
 | ------- |
@@ -634,6 +635,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3028-ant-on-the-boundary) |
 | [3355-zero-array-transformation-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3355-zero-array-transformation-i) |
+| [3903-smallest-stable-index-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
 | ------- |
