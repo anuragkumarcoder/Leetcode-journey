@@ -10,6 +10,7 @@
 | [0040-combination-sum-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -681,6 +682,7 @@
 | [0039-combination-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0216-combination-sum-iii) |
@@ -739,4 +741,8 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
