@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0040-combination-sum-ii) |
@@ -280,6 +281,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0542-01-matrix) |
@@ -495,6 +497,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0398-random-pick-index](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0398-random-pick-index) |
 | [0690-employee-importance](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0690-employee-importance) |
