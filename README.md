@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0045-jump-game-ii) |
@@ -279,6 +280,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0733-flood-fill) |
@@ -493,6 +495,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0398-random-pick-index](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0398-random-pick-index) |
 | [0690-employee-importance](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0690-employee-importance) |
 | [0874-walking-robot-simulation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0874-walking-robot-simulation) |
@@ -681,6 +684,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0047-permutations-ii) |
@@ -747,6 +751,11 @@
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
