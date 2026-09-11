@@ -29,6 +29,7 @@
 | [0396-rotate-function](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0413-arithmetic-slices) |
+| [0494-target-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0506-relative-ranks) |
 | [0542-01-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0624-maximum-distance-in-arrays) |
@@ -485,6 +486,7 @@
 | [0396-rotate-function](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0413-arithmetic-slices) |
+| [0494-target-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0542-01-matrix) |
 | [0788-rotated-digits](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0788-rotated-digits) |
 | [0845-longest-mountain-in-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0845-longest-mountain-in-array) |
@@ -707,6 +709,7 @@
 | [0078-subsets](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0797-all-paths-from-source-to-target) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1980-find-unique-binary-string) |
@@ -773,4 +776,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0037-sudoku-solver) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
