@@ -14,6 +14,7 @@
 | [0047-permutations-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0079-word-search) |
 | [0135-candy](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -284,6 +285,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0733-flood-fill) |
@@ -303,6 +305,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0179-largest-number) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0412-fizz-buzz) |
@@ -551,6 +554,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0079-word-search) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -701,6 +705,7 @@
 | [0052-n-queens-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0216-combination-sum-iii) |
 | [0797-all-paths-from-source-to-target](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0797-all-paths-from-source-to-target) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1863-sum-of-all-subset-xor-totals) |
