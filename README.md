@@ -45,6 +45,7 @@
 | [0912-sort-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0941-valid-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
+| [0980-unique-paths-iii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -290,6 +291,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0733-flood-fill) |
+| [0980-unique-paths-iii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1260-shift-2d-grid) |
@@ -605,6 +607,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0078-subsets) |
+| [0980-unique-paths-iii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0980-unique-paths-iii) |
 | [1009-complement-of-base-10-integer](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -716,6 +719,7 @@
 | [0216-combination-sum-iii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0797-all-paths-from-source-to-target) |
+| [0980-unique-paths-iii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0980-unique-paths-iii) |
 | [1079-letter-tile-possibilities](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1079-letter-tile-possibilities) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1980-find-unique-binary-string) |
@@ -791,4 +795,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0494-target-sum) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
