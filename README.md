@@ -315,6 +315,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0657-robot-return-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0848-shifting-letters) |
 | [1079-letter-tile-possibilities](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1189-maximum-number-of-balloons) |
@@ -345,6 +346,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0844-backspace-string-compare) |
 | [0874-walking-robot-simulation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0874-walking-robot-simulation) |
 | [1094-car-pooling](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1260-shift-2d-grid) |
@@ -369,6 +371,7 @@
 | [0633-sum-of-square-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0844-backspace-string-compare](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0845-longest-mountain-in-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -672,6 +675,7 @@
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0844-backspace-string-compare) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2751-robot-collisions](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2751-robot-collisions) |
 ## Linked List
