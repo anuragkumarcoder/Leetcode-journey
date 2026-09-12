@@ -36,17 +36,19 @@ class Solution {
          
           if(grid[row][col]==-1){
             return;
-        }
-                                                           
-        flag[row][col]=true;
+        } 
         curr++;
-         if(grid[row][col]==2){
+        if(grid[row][col]==2){
             if(curr==count){
                 ans++;
             }
-            flag[row][col]=false;
             return;
         }
+                                                           
+        flag[row][col]=true;
+
+        
+         
         helper(flag,grid,row+1,col,curr);
          helper(flag,grid,row,col+1,curr);
          helper(flag,grid,row-1,col,curr);
