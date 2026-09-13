@@ -308,6 +308,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0179-largest-number) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -489,6 +490,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0045-jump-game-ii) |
 | [0396-rotate-function](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
@@ -714,6 +716,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0040-combination-sum-ii) |
@@ -807,4 +810,8 @@
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0980-unique-paths-iii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
