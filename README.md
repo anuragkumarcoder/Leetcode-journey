@@ -342,6 +342,7 @@
 | [3527-find-the-most-common-response](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3527-find-the-most-common-response) |
 | [3794-reverse-string-prefix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3838-weighted-word-mapping) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Simulation
 |  |
 | ------- |
@@ -626,6 +627,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Enumeration
 |  |
 | ------- |
@@ -638,6 +640,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -737,6 +740,7 @@
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## String Matching
 |  |
 | ------- |
