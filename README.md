@@ -36,6 +36,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0658-find-k-closest-elements) |
 | [0690-employee-importance](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0733-flood-fill) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0845-longest-mountain-in-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0845-longest-mountain-in-array) |
@@ -290,6 +291,7 @@
 | [0079-word-search](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0994-rotting-oranges) |
@@ -575,6 +577,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0690-employee-importance](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0797-all-paths-from-source-to-target) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -592,6 +595,7 @@
 | [0542-01-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0542-01-matrix) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0690-employee-importance](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0690-employee-importance) |
+| [0695-max-area-of-island](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0994-rotting-oranges) |
@@ -763,6 +767,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0695-max-area-of-island) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Game Theory
 |  |
