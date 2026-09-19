@@ -558,6 +558,7 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0113-path-sum-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0449-serialize-and-deserialize-bst) |
@@ -577,6 +578,7 @@
 | [0079-word-search](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0113-path-sum-ii) |
 | [0133-clone-graph](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0133-clone-graph) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -709,6 +711,7 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0113-path-sum-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -720,6 +723,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -837,4 +841,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0022-generate-parentheses) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
