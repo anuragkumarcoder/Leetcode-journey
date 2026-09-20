@@ -34,6 +34,7 @@
 | [0542-01-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0654-maximum-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0658-find-k-closest-elements) |
 | [0690-employee-importance](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0695-max-area-of-island) |
@@ -468,6 +469,7 @@
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0654-maximum-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -564,6 +566,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0654-maximum-binary-tree) |
 | [0690-employee-importance](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0690-employee-importance) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -698,6 +701,7 @@
 |  |
 | ------- |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0654-maximum-binary-tree) |
 | [0844-backspace-string-compare](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0844-backspace-string-compare) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2751-robot-collisions](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2751-robot-collisions) |
@@ -714,6 +718,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0449-serialize-and-deserialize-bst) |
+| [0654-maximum-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0654-maximum-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -849,4 +854,12 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0654-maximum-binary-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
