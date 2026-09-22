@@ -639,6 +639,7 @@
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3304-find-the-k-th-character-in-string-game-i) |
