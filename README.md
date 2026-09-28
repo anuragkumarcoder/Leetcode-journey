@@ -328,6 +328,7 @@
 | [1079-letter-tile-possibilities](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1898-maximum-number-of-removable-characters](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1898-maximum-number-of-removable-characters) |
@@ -711,6 +712,7 @@
 | [0590-n-ary-tree-postorder-traversal](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0654-maximum-binary-tree) |
 | [0844-backspace-string-compare](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0844-backspace-string-compare) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2751-robot-collisions](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2751-robot-collisions) |
 ## Linked List
@@ -855,6 +857,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Lifting
 |  |
 | ------- |
