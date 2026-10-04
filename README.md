@@ -198,6 +198,7 @@
 | [0179-largest-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0624-maximum-distance-in-arrays) |
+| [0678-valid-parenthesis-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1402-reducing-dishes](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1402-reducing-dishes) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -321,6 +322,7 @@
 | [0412-fizz-buzz](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0412-fizz-buzz) |
 | [0449-serialize-and-deserialize-bst](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0449-serialize-and-deserialize-bst) |
 | [0657-robot-return-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [0784-letter-case-permutation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0844-backspace-string-compare) |
@@ -509,6 +511,7 @@
 | [0494-target-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0788-rotated-digits) |
 | [0845-longest-mountain-in-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0877-stone-game) |
@@ -711,6 +714,7 @@
 | ------- |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -857,6 +861,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Lifting
 |  |
