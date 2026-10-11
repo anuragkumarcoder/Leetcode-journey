@@ -112,6 +112,7 @@
 | [2706-buy-two-chocolates](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2706-buy-two-chocolates) |
 | [2751-robot-collisions](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2974-minimum-number-game) |
@@ -676,6 +677,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
