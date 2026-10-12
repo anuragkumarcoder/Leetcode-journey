@@ -323,6 +323,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0179-largest-number) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -514,6 +515,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0045-jump-game-ii) |
 | [0396-rotate-function](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
@@ -725,6 +727,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0032-longest-valid-parentheses) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0678-valid-parenthesis-string) |
@@ -878,6 +881,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1021-remove-outermost-parentheses) |
