@@ -225,6 +225,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3074-apple-redistribution-into-boxes) |
 | [3689-maximum-total-subarray-value-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3689-maximum-total-subarray-value-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
@@ -463,6 +464,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
