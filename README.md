@@ -114,6 +114,7 @@
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -501,11 +502,13 @@
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -566,6 +569,7 @@
 | [2540-minimum-common-value](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
