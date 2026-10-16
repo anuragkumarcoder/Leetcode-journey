@@ -40,6 +40,7 @@
 | [0695-max-area-of-island](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0733-flood-fill) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0804-unique-morse-code-words](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0804-unique-morse-code-words) |
 | [0845-longest-mountain-in-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0845-longest-mountain-in-array) |
 | [0848-shifting-letters](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0848-shifting-letters) |
 | [0874-walking-robot-simulation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0874-walking-robot-simulation) |
@@ -338,6 +339,7 @@
 | [0678-valid-parenthesis-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [0784-letter-case-permutation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0856-score-of-parentheses) |
@@ -552,6 +554,7 @@
 | [0133-clone-graph](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0133-clone-graph) |
 | [0398-random-pick-index](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0398-random-pick-index) |
 | [0690-employee-importance](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0690-employee-importance) |
+| [0804-unique-morse-code-words](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0804-unique-morse-code-words) |
 | [0874-walking-robot-simulation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0874-walking-robot-simulation) |
 | [0997-find-the-town-judge](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0997-find-the-town-judge) |
 | [1079-letter-tile-possibilities](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1079-letter-tile-possibilities) |
