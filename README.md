@@ -70,6 +70,7 @@
 | [1499-max-value-of-equation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1499-max-value-of-equation) |
 | [1552-magnetic-force-between-two-balls](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -210,6 +211,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1382-balance-a-binary-search-tree) |
 | [1402-reducing-dishes](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1402-reducing-dishes) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1686-stone-game-vi](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1686-stone-game-vi) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -320,6 +322,7 @@
 | [1260-shift-2d-grid](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1260-shift-2d-grid) |
 | [1329-sort-the-matrix-diagonally](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1329-sort-the-matrix-diagonally) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1765-map-of-highest-peak](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1765-map-of-highest-peak) |
 | [1914-cyclically-rotating-a-grid](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1914-cyclically-rotating-a-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -923,4 +926,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0509-fibonacci-number) |
+## Flow Network
+|  |
+| ------- |
+| [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
