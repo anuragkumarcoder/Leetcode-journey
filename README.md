@@ -362,6 +362,7 @@
 | [2264-largest-3-same-digit-number-in-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2381-shifting-letters-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2381-shifting-letters-ii) |
+| [2409-count-days-spent-together](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2409-count-days-spent-together) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -461,6 +462,7 @@
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2409-count-days-spent-together](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2409-count-days-spent-together) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3232-find-if-digit-game-can-be-won) |
