@@ -63,6 +63,7 @@
 | [1329-sort-the-matrix-diagonally](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1329-sort-the-matrix-diagonally) |
 | [1331-rank-transform-of-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1402-reducing-dishes](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1402-reducing-dishes) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -183,6 +184,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1094-car-pooling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1499-max-value-of-equation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1499-max-value-of-equation) |
 | [1686-stone-game-vi](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1686-stone-game-vi) |
