@@ -352,6 +352,7 @@
 | [0784-letter-case-permutation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0804-unique-morse-code-words) |
+| [0831-masking-personal-information](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0831-masking-personal-information) |
 | [0844-backspace-string-compare](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0856-score-of-parentheses) |
