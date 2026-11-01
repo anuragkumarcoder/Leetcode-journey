@@ -345,6 +345,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0412-fizz-buzz) |
 | [0449-serialize-and-deserialize-bst](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0449-serialize-and-deserialize-bst) |
+| [0459-repeated-substring-pattern](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0657-robot-return-to-origin) |
@@ -835,6 +836,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0796-rotate-string) |
 ## Graph Theory
 |  |
@@ -942,4 +944,12 @@
 |  |
 | ------- |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
