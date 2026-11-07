@@ -351,6 +351,7 @@
 | [0520-detect-capital](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0686-repeated-string-match) |
 | [0784-letter-case-permutation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0804-unique-morse-code-words) |
@@ -839,6 +840,7 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0796-rotate-string) |
 ## Graph Theory
 |  |
@@ -950,8 +952,14 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
