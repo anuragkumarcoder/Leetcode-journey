@@ -571,6 +571,7 @@
 | [0036-valid-sudoku](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0398-random-pick-index](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0398-random-pick-index) |
 | [0690-employee-importance](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0690-employee-importance) |
 | [0804-unique-morse-code-words](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0804-unique-morse-code-words) |
@@ -775,6 +776,7 @@
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0138-copy-list-with-random-pointer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Tree
