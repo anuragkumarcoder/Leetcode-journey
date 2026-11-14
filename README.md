@@ -134,6 +134,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3239-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3355-zero-array-transformation-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3355-zero-array-transformation-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3364-minimum-positive-sum-subarray) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3446-sort-matrix-by-diagonals](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3446-sort-matrix-by-diagonals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3483-unique-3-digit-even-numbers) |
@@ -172,6 +173,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3364-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -759,6 +761,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3028-ant-on-the-boundary) |
 | [3355-zero-array-transformation-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3355-zero-array-transformation-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
