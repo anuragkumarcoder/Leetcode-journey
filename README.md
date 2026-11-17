@@ -71,6 +71,7 @@
 | [1499-max-value-of-equation](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1499-max-value-of-equation) |
 | [1552-magnetic-force-between-two-balls](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1590-make-sum-divisible-by-p](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1590-make-sum-divisible-by-p) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -585,6 +586,7 @@
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1590-make-sum-divisible-by-p](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -754,6 +756,7 @@
 | [1109-corporate-flight-bookings](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1109-corporate-flight-bookings) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1590-make-sum-divisible-by-p](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2381-shifting-letters-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2381-shifting-letters-ii) |
