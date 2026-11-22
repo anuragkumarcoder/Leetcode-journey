@@ -74,6 +74,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1590-make-sum-divisible-by-p) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1664-ways-to-make-a-fair-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1664-ways-to-make-a-fair-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1686-stone-game-vi](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1686-stone-game-vi) |
@@ -759,6 +760,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1664-ways-to-make-a-fair-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1664-ways-to-make-a-fair-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1732-find-the-highest-altitude) |
 | [2381-shifting-letters-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2381-shifting-letters-ii) |
