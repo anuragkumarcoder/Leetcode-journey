@@ -77,6 +77,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1686-stone-game-vi](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1686-stone-game-vi) |
+| [1732-find-the-highest-altitude](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1732-find-the-highest-altitude) |
 | [1765-map-of-highest-peak](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1765-map-of-highest-peak) |
 | [1792-maximum-average-pass-ratio](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1792-maximum-average-pass-ratio) |
 | [1833-maximum-ice-cream-bars](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1833-maximum-ice-cream-bars) |
@@ -759,6 +760,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1732-find-the-highest-altitude](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1732-find-the-highest-altitude) |
 | [2381-shifting-letters-ii](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2381-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/2574-left-and-right-sum-differences) |
