@@ -39,6 +39,7 @@
 | [0658-find-k-closest-elements](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0658-find-k-closest-elements) |
 | [0690-employee-importance](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0733-flood-fill) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0804-unique-morse-code-words](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0804-unique-morse-code-words) |
@@ -304,6 +305,7 @@
 | [0410-split-array-largest-sum](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0410-split-array-largest-sum) |
 | [0633-sum-of-square-numbers](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0704-binary-search) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/anuragkumarcoder/Leetcode-journey/tree/master/1095-find-in-mountain-array) |
